@@ -1,0 +1,8 @@
+
+source 'https://rubygems.org'
+gem 'sinatra'
+gem 'sinatra_activerecord'
+gem 'active_record'
+group :development do
+gem 'sqlite3'
+end
