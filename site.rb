@@ -2,7 +2,7 @@
 
 require 'sinatra'
 require 'haml'
-set :server, 'webrick'
+
 
 get '/' do
   haml :homepage
