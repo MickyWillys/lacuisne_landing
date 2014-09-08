@@ -1,0 +1,28 @@
+.rise {
+   background-image: url(/first_tof.svg);	
+   background-position: center bottom; /*Positioning*/
+   background-repeat: no-repeat; /*Prevent showing multiple background images*/
+   background-size: cover;
+   opacity:0.75;
+   top: 0;
+   height:800px;
+	}
+
+
+.centre { text-align: center;}
+
+
+	
+.toto {
+   background-image: url(/disco_soupe1.jpg);	
+   background-position: center bottom; /*Positioning*/
+   background-repeat: no-repeat; /*Prevent showing multiple background images*/
+   background-size: cover;
+   opacity:0.75;
+   /*top: 0;*/
+   height:800px;
+
+}	
+#texte {
+    color: white;
+}
